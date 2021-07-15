@@ -1,0 +1,27 @@
+.matchScreen {
+    text-align: center;
+}
+.matchScreen__timestamp {
+    padding-top: 20px;
+    color: gray;
+}
+.matchScreen__img {
+    margin: auto;
+    height: 35vh;
+}
+.matchScreen__text {
+    text-align: left;
+    color: black;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: lightgray;
+    padding: 25px;
+    border-radius: 20px;
+}
+.matchScreen__text > h2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
